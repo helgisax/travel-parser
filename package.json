@@ -1,0 +1,25 @@
+{
+  "name": "travel-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helgisax/travel-parser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helgisax/travel-parser/issues"
+  },
+  "homepage": "https://github.com/helgisax/travel-parser#readme",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "bitly": "^7.1.2",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
